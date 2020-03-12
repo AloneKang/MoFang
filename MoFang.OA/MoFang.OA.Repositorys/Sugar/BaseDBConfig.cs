@@ -9,6 +9,6 @@ namespace MoFang.OA.Repository.Sugar
     public class BaseDBConfig
     {
         public static string ConnectionString =
-            @"Data Source=192.168.1.251;Initial Catalog=RY_SDR_MONIM;UID=sa;PWD=ry@123;Integrated Security=False";
+            @"Data Source=.;Initial Catalog=McOffice_V1;UID=sa;PWD=sunway;Integrated Security=False";
     }
 }

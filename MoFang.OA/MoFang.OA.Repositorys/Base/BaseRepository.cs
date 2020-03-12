@@ -1,5 +1,4 @@
-﻿using MoFang.OA.Entity.Entity.BaseEntity;
-using MoFang.OA.IRepository.Base;
+﻿using MoFang.OA.IRepository.Base;
 using MoFang.OA.Repository.Sugar;
 using SqlSugar;
 using System;

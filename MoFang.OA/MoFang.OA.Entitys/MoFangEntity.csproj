@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="SqlSugar, Version=5.0.0.12, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\sqlSugar.5.0.0.12\lib\SqlSugar.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,9 +44,66 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Entity\BaseEntity\RootEntity.cs" />
+    <Compile Include="Entity\Address_List.cs" />
+    <Compile Include="Entity\Attendance_List.cs" />
+    <Compile Include="Entity\Calendar_List.cs" />
+    <Compile Include="Entity\Car_List.cs" />
+    <Compile Include="Entity\Car_Set.cs" />
+    <Compile Include="Entity\Document_List.cs" />
+    <Compile Include="Entity\Finance_Account.cs" />
+    <Compile Include="Entity\Finance_List.cs" />
+    <Compile Include="Entity\Forum_List.cs" />
+    <Compile Include="Entity\Forum_Vote.cs" />
+    <Compile Include="Entity\Mail_Account.cs" />
+    <Compile Include="Entity\Mail_Attachment.cs" />
+    <Compile Include="Entity\Mail_List.cs" />
+    <Compile Include="Entity\Memo_List.cs" />
+    <Compile Include="Entity\Note_List.cs" />
+    <Compile Include="Entity\Notice_List.cs" />
+    <Compile Include="Entity\Notice_Receiver.cs" />
+    <Compile Include="Entity\Plan_List.cs" />
+    <Compile Include="Entity\Process_List.cs" />
+    <Compile Include="Entity\Role_List.cs" />
+    <Compile Include="Entity\Role_Name.cs" />
+    <Compile Include="Entity\Role_Power.cs" />
+    <Compile Include="Entity\Sys_City.cs" />
+    <Compile Include="Entity\Sys_Country.cs" />
+    <Compile Include="Entity\Sys_Currency.cs" />
+    <Compile Include="Entity\Sys_Express.cs" />
+    <Compile Include="Entity\Sys_Menu.cs" />
+    <Compile Include="Entity\Sys_Province.cs" />
+    <Compile Include="Entity\Sys_StatusID.cs" />
+    <Compile Include="Entity\Sys_TypeID.cs" />
+    <Compile Include="Entity\Task_List.cs" />
+    <Compile Include="Entity\Task_Receiver.cs" />
+    <Compile Include="Entity\User_Department.cs" />
+    <Compile Include="Entity\User_List.cs" />
+    <Compile Include="Entity\User_Log.cs" />
+    <Compile Include="Entity\User_Online.cs" />
+    <Compile Include="Entity\User_Position.cs" />
+    <Compile Include="Entity\View_Address_List.cs" />
+    <Compile Include="Entity\View_Calendar_Check.cs" />
+    <Compile Include="Entity\View_Calendar_List.cs" />
+    <Compile Include="Entity\View_Car_List.cs" />
+    <Compile Include="Entity\View_Document_List.cs" />
+    <Compile Include="Entity\View_Finance_List.cs" />
+    <Compile Include="Entity\View_Forum_List.cs" />
+    <Compile Include="Entity\View_Forum_Vote.cs" />
+    <Compile Include="Entity\View_Menu.cs" />
+    <Compile Include="Entity\View_MyHistory.cs" />
+    <Compile Include="Entity\View_Note_List.cs" />
+    <Compile Include="Entity\View_Notice_List.cs" />
+    <Compile Include="Entity\View_Notice_Receiver.cs" />
+    <Compile Include="Entity\View_Plan_List.cs" />
+    <Compile Include="Entity\View_Process_List.cs" />
+    <Compile Include="Entity\View_Task_List.cs" />
+    <Compile Include="Entity\View_Task_Receiver.cs" />
+    <Compile Include="Entity\View_User_List.cs" />
+    <Compile Include="Entity\View_User_Online.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
