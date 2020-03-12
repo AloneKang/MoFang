@@ -1,0 +1,4 @@
+E:\学习\MoFang.OA\MoFang.OA.Entitys\bin\Debug\MoFang.OA.Entity.dll
+E:\学习\MoFang.OA\MoFang.OA.Entitys\bin\Debug\MoFang.OA.Entity.pdb
+E:\学习\MoFang.OA\MoFang.OA.Entitys\obj\Debug\MoFang.OA.Entity.dll
+E:\学习\MoFang.OA\MoFang.OA.Entitys\obj\Debug\MoFang.OA.Entity.pdb

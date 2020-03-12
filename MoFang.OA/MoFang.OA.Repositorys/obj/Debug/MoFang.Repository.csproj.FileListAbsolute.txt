@@ -1,0 +1,14 @@
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.Repository.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.Repository.pdb
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.Common.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.Entity.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.IRepository.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\SqlSugar.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\Newtonsoft.Json.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.Common.pdb
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.Entity.pdb
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\bin\Debug\MoFang.OA.IRepository.pdb
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\obj\Debug\MoFang.Repository.csprojAssemblyReference.cache
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\obj\Debug\MoFang.Repository.csproj.CopyComplete
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\obj\Debug\MoFang.OA.Repository.dll
+E:\学习\MoFang.OA\MoFang.OA.Repositorys\obj\Debug\MoFang.OA.Repository.pdb

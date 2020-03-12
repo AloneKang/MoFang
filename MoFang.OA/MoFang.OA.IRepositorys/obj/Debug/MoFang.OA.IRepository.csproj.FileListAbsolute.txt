@@ -1,0 +1,8 @@
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\obj\Debug\MoFang.OA.IRepository.csprojAssemblyReference.cache
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\bin\Debug\MoFang.OA.IRepository.dll
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\bin\Debug\MoFang.OA.IRepository.pdb
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\bin\Debug\MoFang.OA.Entity.dll
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\bin\Debug\MoFang.OA.Entity.pdb
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\obj\Debug\MoFang.OA.IRepository.csproj.CopyComplete
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\obj\Debug\MoFang.OA.IRepository.dll
+E:\学习\MoFang.OA\MoFang.OA.IRepositorys\obj\Debug\MoFang.OA.IRepository.pdb
